@@ -16,26 +16,27 @@ Me caracterizo por ser autodidacta, curioso y muy persistente cuando se trata de
 
 🧠 Tecnologías y herramientas
 👨‍💻 Desarrollo
-HTML5 / CSS3 / JavaScript
-React + Material UI
-Python (Flask)
-MySQL / SQL
-Git & GitHub
+ - HTML5 / CSS3 / JavaScript
+ - React + Material UI
+ - Python (Flask)
+ - MySQL / SQL
+ - Git & GitHub
 🖥️ Soporte y Sistemas
-Instalación y mantenimiento de Windows
-Redes básicas y cableado estructurado
-Mantenimiento de equipos
-Recuperación de datos
-Configuración de software empresarial
+- Instalación y mantenimiento de Windows
+- Redes básicas y cableado estructurado
+- Mantenimiento de equipos
+- Recuperación de datos
+- Configuración de software empresarial
+  
 📌 Proyectos destacados
 🏢 Sistema de Gestión Residencial (APQRS)
 
-Sistema web para conjuntos residenciales que permite:
+Sistema web para conjuntos residenciales que permite: 
 
-Gestión de PQRS con seguimiento en tiempo real
-Reserva de citas con administración
-Reportes y estadísticas
-Notificaciones automáticas
+- Gestión de PQRS con seguimiento en tiempo real
+- Reserva de citas con administración
+- Reportes y estadísticas
+- Notificaciones automáticas
 
 Stack: Flask + MySQL + Frontend Web
 
@@ -43,23 +44,23 @@ Stack: Flask + MySQL + Frontend Web
 
 Plataforma con múltiples roles:
 
-Usuarios adoptantes
-Fundaciones
-Administrador
+- Usuarios adoptantes
+- Fundaciones
+- Administrador
 
 Stack: HTML + CSS + JavaScript + MySQL + PHP
 
 📈 Actualmente aprendiendo
-Arquitectura de software
-Seguridad web
-APIs REST profesionales
-Buenas prácticas y patrones de diseño
+- Arquitectura de software
+- Seguridad web
+- APIs REST profesionales
+- Buenas prácticas y patrones de diseño
 
 🤝 Me interesa colaborar en
-Proyectos web
-Automatización de procesos
-Sistemas administrativos
-Proyectos open-source
+- Proyectos web
+- Automatización de procesos
+- Sistemas administrativos
+- Proyectos open-source
 
 📧 Puedes contactarme por GitHub o LinkedIn cuando esté disponible.
 
