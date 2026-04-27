@@ -61,7 +61,6 @@ Automatización de procesos
 Sistemas administrativos
 Proyectos open-source
 
-📫 Contacto
 📧 Puedes contactarme por GitHub o LinkedIn cuando esté disponible.
 
 ⭐ “Siempre aprendiendo, siempre construyendo.”
