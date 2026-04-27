@@ -47,30 +47,21 @@ Usuarios adoptantes
 Fundaciones
 Administrador
 
-Stack: HTML + CSS + JavaScript + MySQL
-
-🏃 Colombian Sports Company
-
-Marca de ropa deportiva creada desde cero:
-
-Branding
-Identidad visual
-Planeación de productos
-
-Eslogan: “Para ganadores”
+Stack: HTML + CSS + JavaScript + MySQL + PHP
 
 📈 Actualmente aprendiendo
 Arquitectura de software
 Seguridad web
 APIs REST profesionales
 Buenas prácticas y patrones de diseño
+
 🤝 Me interesa colaborar en
 Proyectos web
 Automatización de procesos
 Sistemas administrativos
 Proyectos open-source
-📫 Contacto
 
+📫 Contacto
 📧 Puedes contactarme por GitHub o LinkedIn cuando esté disponible.
 
 ⭐ “Siempre aprendiendo, siempre construyendo.”
