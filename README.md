@@ -65,3 +65,6 @@ Stack: HTML + CSS + JavaScript + MySQL + PHP
 📧 Puedes contactarme por GitHub o LinkedIn cuando esté disponible.
 
 ⭐ “Siempre aprendiendo, siempre construyendo.”
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyAppleGente&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
